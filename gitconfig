@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amnajee21@gmail.com
+	name = amna adnan
